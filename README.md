@@ -1,7 +1,4 @@
-# 💫 About Me:
-Just a chill coder.
-
-## 🌐 Socials:
+##Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dijo-benelen)
 
 # 💻 Tech Stack:
@@ -30,8 +27,7 @@ Just a chill coder.
 ![Prettier](https://img.shields.io/badge/Prettier-000?style=flat&logo=prettier&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dijo-404&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)
+#GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=dijo-404&theme=graywhite&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dijo-404&theme=graywhite&hide_border=true&layout=compact)
 
