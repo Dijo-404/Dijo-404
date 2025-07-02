@@ -28,10 +28,7 @@ Just a chill coder.
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?style=flat&logo=notion&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-000?style=flat&logo=prettier&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-000?style=flat&logo=adobe-photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-000?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-000?style=flat&logo=adobe-after-effects&logoColor=white)
-![Audition](https://img.shields.io/badge/Audition-000?style=flat&logo=adobe-audition&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dijo-404&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)
