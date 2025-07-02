@@ -1,7 +1,7 @@
-##Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dijo-benelen)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=white)
@@ -27,7 +27,8 @@
 ![Prettier](https://img.shields.io/badge/Prettier-000?style=flat&logo=prettier&logoColor=white)
 
 
-#GitHub Stats:
+# GitHub Stats:
+
 ![](https://nirzak-streak-stats.vercel.app/?user=dijo-404&theme=graywhite&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dijo-404&theme=graywhite&hide_border=true&layout=compact)
 
