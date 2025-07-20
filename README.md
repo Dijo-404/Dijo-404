@@ -12,7 +12,7 @@ echo ">> ERROR: [ /opt/overclock/core ] MELTDOWN!"
 
 echo ">> Dumping memory to /tmp/reality.dmp"      
 echo "EOF :( "                                    
-# === System Failure ===
+# =========  System Failure  ==============
 ```
 
 ## Tech Stack:
