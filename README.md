@@ -1,3 +1,14 @@
+bash 
+#!/bin/bash
+each ">> cool..."
+
+
+
+
+
+
+
+
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dijo-benelen)
 ## Tech Stack:
