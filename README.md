@@ -3,12 +3,19 @@ bash
 #!/bin/bash 
 
 echo ">>Mounting module : /opt/overclock..."
+
 chmod 777 /opt/overclock/core
+
 echo ">>Mounting module : /opt/overclock"
+
 echo ">>Overclock initialized..."
+
 echo ">> WARNING: instability detected!!"
+
 echo ">>ERROR : [ /opt/overclock/core ] MELTDOWN!"
+
 echo ">>Dumping memmory to /tmp/reality.dmp"
+
 echo "EOF :("
 
 ## Socials:
