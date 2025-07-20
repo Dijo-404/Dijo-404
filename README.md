@@ -1,3 +1,4 @@
+```
 #!/bin/bash
 
 # ===  Dev Overclock Protocol Initiated ===
@@ -10,15 +11,11 @@ echo ">> Overclock initialized..."
 echo ">> ⚠ WARNING: instability detected!!"         
 echo ">> ERROR: [ /opt/overclock/core ] MELTDOWN!" 
 
-echo ">> Dumping memory to /tmp/reality.dmp"      
+echo ">> umping memory to /tmp/reality.dmp"      
 
 echo "EOF :( "                                    
 # === System Failure ===
-
-
-
-
-
+```
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dijo-benelen)
