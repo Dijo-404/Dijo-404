@@ -17,8 +17,6 @@ echo "EOF :( "
 # === System Failure ===
 ```
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dijo-benelen)
 ## Tech Stack:
 ![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B&logoColor=white)
@@ -43,5 +41,9 @@ echo "EOF :( "
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?style=flat&logo=notion&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-000?style=flat&logo=prettier&logoColor=white)
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dijo-benelen)
+
 ## GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=dijo-404&theme=graywhite&hide_border=true)
