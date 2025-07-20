@@ -1,15 +1,22 @@
 ```
 #!/bin/bash
 
-echo ">>Mounting module : /opt/overclock..."
+# === Dev Overclock Protocol Initiated ===
+
+echo ">>Mounting module: /opt/overclock..."
 chmod 777 /opt/overclock/core
-echo ">>Mounting module : /opt/overclock"
+echo ">>Module mounted: /opt/overclock"
+
 echo ">>Overclock initialized..."
-echo ">> ⚠️  WARNING: instability detected!!"
-echo ">>❌ ERROR : [ /opt/overclock/core ] MELTDOWN!"
-echo ">>Dumping memmory to /tmp/reality.dmp"
+echo ">>⚠ WARNING: instability detected!!"
+echo ">>ERROR: [ /opt/overclock/core ] MELTDOWN!"
+
+echo ">>Dumping memory to /tmp/reality.dmp"
+
 echo "EOF :("
+# === System Failure ===
 ```
+
 
 
 ## Socials:
