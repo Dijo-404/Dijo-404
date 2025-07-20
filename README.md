@@ -1,29 +1,22 @@
-``bash
+```
 #!/bin/bash
 
-# === Dev Overclock Protocol Initiated ===
+# ===  Dev Overclock Protocol Initiated ===
 
-# Define colors
-BLUE='\033[1;34m'
-YELLOW='\033[1;33m'
-RED='\033[1;31m'
-GREEN='\033[1;32m'
-NC='\033[0m' # No Color
-
-echo -e "${BLUE}>> 🔧 Mounting module: /opt/overclock...${NC}"
+echo ">> Mounting module: /opt/overclock..."       
 chmod 777 /opt/overclock/core
-echo -e "${YELLOW}>> 📦 Module mounted: /opt/overclock${NC}"
+echo ">> Module mounted: /opt/overclock"          
 
-echo -e "${RED}>> ⚙️  Overclock initialized...${NC}"
-echo -e "${RED}>> ⚠️  WARNING: instability detected!!${NC}"
-echo -e "${RED}>> ❌ ERROR: [ /opt/overclock/core ] MELTDOWN!${NC}"
+echo ">> Overclock initialized..."             
+echo ">> ⚠ WARNING: instability detected!!"         
+echo ">> ERROR: [ /opt/overclock/core ] MELTDOWN!" 
 
-echo -e "${YELLOW}>> 🧠 Dumping memory to /tmp/reality.dmp${NC}"
+echo ">> umping memory to /tmp/reality.dmp"      
 
-echo -e "${GREEN}EOF :( ${NC}"
-
+echo "EOF :( "                                    
 # === System Failure ===
 ```
+
 
 
 
