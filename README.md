@@ -1,4 +1,4 @@
-```
+```bash
 #!/bin/bash
 
 # ===  Dev Overclock Protocol Initiated ===
