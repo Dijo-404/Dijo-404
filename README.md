@@ -133,7 +133,7 @@
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=dijo-404&theme=graywhite&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dijo-404&theme=graywhite&hide_border=true)
 
 </div>
 
