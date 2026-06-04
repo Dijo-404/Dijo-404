@@ -133,7 +133,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dijo-404&theme=graywhite&hide_border=true)
+![Dijo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dijo-404&show_icons=true&theme=graywhite&hide_border=true)
 
 </div>
 
