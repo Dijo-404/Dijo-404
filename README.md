@@ -14,6 +14,7 @@
 ```
 > whoami
   engineer. builder. tinkerer.
+
 ```
 
 ---
@@ -32,3 +33,5 @@
 > exit
   [session closed]
 ```
+<div align="center">
+<img width="194" height="183" alt="claude-claude-code-ezgif com-optimize" src="https://github.com/user-attachments/assets/39141856-df5d-4b86-a4f3-abc9cc438793" />
